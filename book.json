@@ -1,0 +1,43 @@
+{
+	"title": "自动化部署",
+	"description": "介绍自动化部署的相关知识",
+	"author": "nstimer.cn <admin@nstimer.cn>",
+	"isbn": "null",
+	"language": "zh",
+	"gitbook": ">= 3.2.2",
+    "font": 20,
+
+    "plugins": ["-sharing","-livereload","-search","-fontsettings"],
+
+    "pluginsConfig": {},
+
+    "variables": {},
+
+    "links": {
+        "sidebar": {
+            "主站": "http://nstimer.cn"
+        },
+
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": true,
+        "paperSize": "a4"
+    }
+}
